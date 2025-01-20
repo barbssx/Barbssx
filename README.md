@@ -108,7 +108,17 @@ Me chamo Bárbara, tenho 26 anos e sou estudante de Engenharia de Computação n
     title="git" 
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+          
+
+<img 
+    align="left" 
+    alt="git"
+    title="git" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+
 
 </br></br>
 
