@@ -93,7 +93,14 @@ Me chamo Bárbara, tenho 26 anos e sou estudante de Engenharia de Computação n
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-
+<img 
+    align="left" 
+    alt="Google Cloud Platform"
+    title="Google Cloud Platform" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+          
   <img 
     align="left" 
     alt="AWS"
@@ -113,8 +120,8 @@ Me chamo Bárbara, tenho 26 anos e sou estudante de Engenharia de Computação n
 
 <img 
     align="left" 
-    alt="git"
-    title="git" 
+    alt="docker"
+    title="docker" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
