@@ -1,106 +1,49 @@
-## 👩‍💻 Barbara Sthefani
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
-**`Auxiliar de desenvolvimento I`**
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76BC3&width=900&lines=Auxiliar+de+Desenvolvimento;Apaixonada+por+tecnologia+e+autoconhecimento;Construindo+um+futuro+mais+brilhante+com+código" alt="Typing SVG" />
+</p>
 
-Me chamo Bárbara, tenho 26 anos e sou estudante de Engenharia de Computação na UNIVESP (6/10). Atualmente, atuo como auxiliar de desenvolvimento, onde venho adquirindo conhecimentos práticos e técnicos na área de tecnologia.
+###
 
-----
+<p align="left">Me chamo Bárbara e sou auxiliar de desenvolvimento, atualmente no Brasil 🇧🇷</p>
 
-### 🦇 Linguagens e tecnologias
+###
 
+<h2 align="left">👩‍💻 Sobre mim</h2>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
-          
-
-<img 
-    align="left" 
-    alt="Javascript"
-    title="Javascript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-
-  <img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL"  
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-   <img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL"  
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-    
-<img 
-    align="left" 
-    alt="Google Cloud Platform"
-    title="Google Cloud Platform" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
-          
-
-          
-<img 
-    align="left" 
-    alt="git"
-    title="git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-          
-
-<img 
-    align="left" 
-    alt="docker"
-    title="docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-
-
-</br></br>
+<p align="left">
+🎓 Estudante de Engenharia de Computação na UNIVESP (7º de 10 semestres)<br>
+💼 Atuando como Auxiliar de Desenvolvimento I<br>
+✨ Criando (e corrigindo) bugs desde 2024<br>
+📚 Aprendendo cada vez mais sobre Laravel, Vue.js, clean code e testes<br>
+🎯 Objetivo: Me tornar desenvolvedora full-stack e construir soluções que façam a diferença 🌍<br>
+🧘‍♀️ Curiosidade: Pratico yoga e meditação todos os dias
+</p>
 
 ---
-### 🦇 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Barbssx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" 
-  />
+### 🦇 Linguagens e Tecnologias
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbssx&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px" title="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30px" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg" width="30px" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="40px" title="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="30px" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="30px" title="Docker" />
+</div>
 
-</p>
+---
+
+### 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/barbara-sthefani)
+- 🌐 Portfólio: *em breve...*
+
+---
